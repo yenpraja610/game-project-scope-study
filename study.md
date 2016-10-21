@@ -4,7 +4,8 @@
 
 -   [Game Project](https://github.com/ga-wdi-boston/game-project)
 -   [Game API](https://github.com/ga-wdi-boston/game-project-api)
--   [What is a User Story](http://searchsoftwarequality.techtarget.com/definition/user-story)
+-   [What is a User Story](https://www.mountaingoatsoftware.com/agile/user-stories)
+-   [Tips for writing User Stories](http://www.romanpichler.com/blog/10-tips-writing-good-user-stories/)
 
 ## Deliverables
 
@@ -23,7 +24,7 @@ has instructions to link to a picture you've uploaded to a service like [Imgur]
 -   How you will take the markup of the game board and represent it in JS
 -   How you plan to approach this project.
 -   4-8 user stories for your game project.
--   How you plan to keep your code modular.
--   What creative spin will you add to your project.
--   How you will use version control to backup / track your project.
+-   How you plan to keep your code modular?
+-   What creative spin will you add to your project?
+-   How you will use version control to backup / track your project?
 -   Do you plan to attempt any of the bonuses?
