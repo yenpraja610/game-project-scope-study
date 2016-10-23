@@ -5,7 +5,6 @@
 -   [Game Project](https://github.com/ga-wdi-boston/game-project)
 -   [Game API](https://github.com/ga-wdi-boston/game-project-api)
 -   [What is a User Story](https://www.mountaingoatsoftware.com/agile/user-stories)
--   [Tips for writing User Stories](http://www.romanpichler.com/blog/10-tips-writing-good-user-stories/)
 
 ## Deliverables
 
