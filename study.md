@@ -12,18 +12,19 @@ After reading the `game-project` prompt and the `game-project-api` documentation
 please do the following and be prepared to share and discuss during our next
 class.
 
-Submit detailed answers to these in this file via a pull request.
-You may want to submit pictures for your wireframes and/or user stories.
-[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-has instructions to link to a picture you've uploaded to a service like [Imgur]
-(http://imgur.com/).
+Submit detailed answers to the following in this file via a pull request:
 
 -   A wireframe of what your game project will look like.
 -   The data structure you plan to use.
 -   How you will take the markup of the game board and represent it in JS
 -   How you plan to approach this project.
 -   4-8 user stories for your game project.
--   How you plan to keep your code modular?
+-   How you plan to keep your code modular.
 -   What creative spin will you add to your project?
--   How you will use version control to backup / track your project?
+-   How will you use version control to backup / track your project?
 -   Do you plan to attempt any of the bonuses?
+
+You may want to submit pictures for your wireframes and/or user stories.
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+has instructions to link to a picture you've uploaded to a service like [Imgur]
+(http://imgur.com/).
